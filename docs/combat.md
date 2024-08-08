@@ -110,6 +110,7 @@ Prevents the game becoming too easy by making enemies more likely to target the 
 - Main File - Player Combat Priority
 - Main File - [PCP Doggo Patch](https://www.nexusmods.com/newvegas/mods/80339)
   - A patch that further compounds the effects of Player Combat Priority in order to make dogs more survivable in combat.
+  - Note : As of July 17th, Patch has been removed and unavailable.
 
 ### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
 
